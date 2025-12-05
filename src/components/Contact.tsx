@@ -132,7 +132,7 @@ export default function Contact() {
               <span className="text-2xl">📞</span>
               <div>
                 <p className="text-sm text-white/60">Phone</p>
-                <p className="font-medium group-hover:underline">+91 98765 43210</p>
+                <p className="font-medium group-hover:underline">+91 70006 25003</p>
               </div>
             </a>
             <a href="mailto:ganeshaagrohub@gmail.com" className="flex items-center gap-3 text-white/90 hover:text-white transition-colors group">
